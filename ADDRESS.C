@@ -2,7 +2,7 @@
 int main()
 {
     int x_add = 10003;
-    int size = 2;
+    int size = 4;
     printf("Base Address of X = %d\n", x_add);
     printf("Size of each variable = %d bytes\n\n", size);
     printf("CASE 1 : X -> Y -> Z\n");
